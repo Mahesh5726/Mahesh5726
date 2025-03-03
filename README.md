@@ -28,4 +28,3 @@ A self-taught `Full Stack Web Developer`.
 ---
 
 • [`LinkedIn`](https://www.linkedin.com/in/mahesh-r-1ba86123a/)
-- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
