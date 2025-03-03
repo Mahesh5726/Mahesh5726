@@ -25,6 +25,3 @@ A self-taught `Full Stack Web Developer`.
 ### Projects
 - `Second Brain`
 
----
-
-• [`LinkedIn`](https://www.linkedin.com/in/mahesh-r-1ba86123a/)
