@@ -25,3 +25,9 @@ A self-taught `Full Stack Web Developer`.
 ### Projects
 - `Second Brain`
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahesh5726/Mahesh5726/output/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mahesh5726/Mahesh5726/output/github-snake-dark.svg" />
+  </picture>
+</p>
